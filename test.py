@@ -119,6 +119,10 @@ if x>2:
   pass
 else:
   raise AssertionError('x lebih kecil dari 2')
+
+
+
+  
 print(x)
 
 
