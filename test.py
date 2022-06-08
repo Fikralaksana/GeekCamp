@@ -131,6 +131,8 @@ print(x)
 
 """halo dari iqbal"""
 
+"""oke"""
+
 
 
 
