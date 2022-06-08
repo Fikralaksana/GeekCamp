@@ -125,16 +125,8 @@ else:
   
 print(x)
 """ssssssssssssssssssssssssss"""
-<<<<<<< HEAD
-2
 
-=======
-1
->>>>>>> 85351c9b3bb87dcbeb2fe14a732ab10738532989
-
-
-
-
+"heiii"
 
 
 
